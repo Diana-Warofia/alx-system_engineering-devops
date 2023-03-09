@@ -1,2 +1,2 @@
 #!/bin/bash
-This script contains the commands needed to execute the tasks
+The scripts contain commands needed to execute the tasks given
